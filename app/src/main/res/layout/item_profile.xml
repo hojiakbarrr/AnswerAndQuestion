@@ -41,6 +41,12 @@
                 android:textColor="#0F22BC"
                 />
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#E80000"
+                android:layout_marginTop="4dp"/>
+
             <TextView
                 android:id="@+id/dd"
                 android:text="Work in Android Development and Application UI Design"

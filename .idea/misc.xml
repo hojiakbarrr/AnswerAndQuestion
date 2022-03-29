@@ -4,11 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/drawable/background_shape.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/drawable/bottom_shpe.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/drawable/ic_attachment.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/drawable/ic_send.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/drawable/receive_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/drawable/send_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/drawable/shape_send.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/activity_chat.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/activity_main.xml" value="0.28974358974358977" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/activity_o_t_p_activity.xml" value="0.18" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/activity_set_up_profile.xml" value="0.22" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/activity_verification.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/delete_layout.xml" value="0.33" />
         <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/item_profile.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/receive_msg.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AnswerAndQuestion/app/src/main/res/layout/send_msg.xml" value="0.2" />
       </map>
     </option>
   </component>
