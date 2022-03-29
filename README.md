@@ -1,0 +1,7 @@
+![Скриншот 29-03-2022 16 45 52](https://user-images.githubusercontent.com/95398817/160595828-7a86f076-f51b-440c-bbc5-bdac2ee11647.png)
+![Скриншот 29-03-2022 16 47 57](https://user-images.githubusercontent.com/95398817/160595836-a2ebb290-573b-46c1-b46d-9d34b9d082f3.png)
+![Скриншот 29-03-2022 16 48 29](https://user-images.githubusercontent.com/95398817/160595838-a0be7cca-c085-48ee-9a7e-d32994983130.png)
+![Скриншот 29-03-2022 16 48 52](https://user-images.githubusercontent.com/95398817/160595841-bd8ac63d-9f6f-433c-b2b9-9d2f7fee1244.png)
+![Скриншот 29-03-2022 16 49 15](https://user-images.githubusercontent.com/95398817/160595843-761d9cb6-c2eb-4a76-8fc5-3bd84c95258b.png)
+![Скриншот 29-03-2022 16 49 33](https://user-images.githubusercontent.com/95398817/160595847-439727a5-c878-4d58-8427-98c7685cd7fb.png)
+![Скриншот 29-03-2022 16 50 11](https://user-images.githubusercontent.com/95398817/160595851-58194ad4-4396-4d71-a056-b72d78171bf1.png)
